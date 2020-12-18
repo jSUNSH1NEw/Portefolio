@@ -76,9 +76,9 @@ export default class Content extends Component {
 
           <Typist className={customTypist} cursor={{ hideWhenDone: true }}>
             <Typist.Delay ms={500} />
-              <h1>Hi, I'm Joffrey alias jSUNSH1NEw</h1>
+              <h1>Hi, I'm Joffrey alias jSUNSH1NEw!</h1>
             <Typist.Delay ms={500} />
-              Hybrid app developer
+              Hybrid app developer :)
             <Typist.Delay ms={500} />
           </Typist>
         </div>

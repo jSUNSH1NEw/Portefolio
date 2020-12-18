@@ -54,7 +54,7 @@ export default class Container extends Component {
                     "React.js", "Vue.js", 
                     "Node.js", "Docker",
                     "Express-api", "Serverless cfg",
-                    "Three.js",  "Agile method"]}
+                    "Three.js", "Agile method"]}
             isMobile = {this.state.isMobile}
           />
           <ul>
